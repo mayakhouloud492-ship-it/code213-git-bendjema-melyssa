@@ -1,0 +1,1 @@
+1. Difference Git and 2. Git storage areas 3. Pre-merge gates 
